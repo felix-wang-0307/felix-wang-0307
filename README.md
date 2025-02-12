@@ -26,7 +26,7 @@ src="https://img.shields.io/github/followers/felix-wang-0307?logo=github&style=f
 
 <div style="display: flex; justify-content: space-between;">
 
-<div>
+<div style="flex: 1">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/aniket736" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="aniket736" height="30" width="40" /></a>
@@ -55,10 +55,14 @@ src="https://img.shields.io/github/followers/felix-wang-0307?logo=github&style=f
 </p>
 </div>
 
-
+<div style="flex: 1">
+<p align="right">
 <a href="https://github.com/felix-wang-0307">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felix-wang-0307&theme=gradient&hide=html&layout=donut" />
 </a>
+</p>
+</div>
+
 </div>
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ak736&show_icons=true&locale=en" alt="ak736" /></p> -->
 
