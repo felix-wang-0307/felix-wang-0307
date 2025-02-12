@@ -1,9 +1,4 @@
 <!-- ![Header](https://www.digitalsolutionservices.com/img/services/website1.gif) -->
-<style>
-a {
-  text-decoration: none;
-}
-</style>
 
 <h1 align="center">Hey there! I'm Felix 👋</h1>
 
@@ -24,7 +19,7 @@ a {
 ---
 
 ### 📌 Connect with Me:
-<p align="left">
+<p align="left" style="text-decoration: none">
   <a href="https://twitter.com/aniket736" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" height="30" width="40" />
   </a>
@@ -40,7 +35,7 @@ a {
 ---
 
 ### 🛠️ Languages & Tools:
-<p align="center" display="flex" flex-wrap="wrap" gap="10px">
+<p align="center" display="flex" flex-wrap="wrap" gap="10px" style="text-decoration: none">
   <a href="https://www.cprogramming.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" /> 
   </a>
