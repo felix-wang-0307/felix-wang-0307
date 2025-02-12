@@ -1,4 +1,9 @@
 <!-- ![Header](https://www.digitalsolutionservices.com/img/services/website1.gif) -->
+<style>
+a {
+  text-decoration: none;
+}
+</style>
 
 <h1 align="center">Hey there! I'm Felix 👋</h1>
 
