@@ -15,20 +15,24 @@
 
 - 📫 Reach me at [felix2001.wang@gmail.com]()
 
-- 🐧 QQ: <a href="https://wpa.qq.com/msgrd?v=3&uin=358838616&site=qq&menu=yes" target="_blank">358838616</a>
+<!-- - 🐧 QQ: <a href="https://wpa.qq.com/msgrd?v=3&uin=358838616&site=qq&menu=yes" target="_blank">358838616</a> -->
 
-- ⚡ Fun fact **If I had to do it all over again, I probably wouldn’t**
+<!-- - ⚡ Fun fact **If I had to do it all over again, I probably wouldn’t** -->
 
 <a href="https://www.github.com/ak736" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/felix-wang-0307?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
+<br/><br/>
+
+<div style="display: flex; justify-content: space-between;">
+
+<div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/aniket736" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="aniket736" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/felix-2001-wang/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Felix IN" height="30" width="40" /></a>
 <a href="https://www.instagram.com/felix0307wang/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Felix IG" height="30" width="40" /></a>
 <!-- <a href="https://dribbble.com/ak736" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="ak736" height="30" width="40" /></a> -->
-
 
 </p>
 
@@ -49,15 +53,16 @@ src="https://img.shields.io/github/followers/felix-wang-0307?logo=github&style=f
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="atom" width="40" height="40"/> </a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://devicon-website.vercel.app/api/tailwindcss/plain.svg" alt="atom" width="40" height="40"/> </a>
 </p>
+</div>
+
 
 <a href="https://github.com/felix-wang-0307">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felix-wang-0307&theme=gradient&hide=html&layout=donut" />
 </a>
-
+</div>
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ak736&show_icons=true&locale=en" alt="ak736" /></p> -->
 
 <a href="https://github.com/felix-wang-0307"><img src="https://streak-stats.demolab.com?user=felix-wang-0307" alt="GitHub Streak" /></a>
-
 
 <p align="center">
  <br>
