@@ -20,9 +20,9 @@
 
 ### 📌 Connect with Me:
 <p align="left" style="text-decoration: none">
-  <a href="https://twitter.com/aniket736" target="blank">
+<!--   <a href="https://twitter.com/aniket736" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" height="30" width="40" />
-  </a>
+  </a> -->
   <a href="https://www.linkedin.com/in/felix-2001-wang/" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" />
   </a>
