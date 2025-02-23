@@ -10,8 +10,8 @@
 
 ### 🚀 About Me
 - 🎓 Pursuing my **Master’s in Computer Science** at [University of Southern California](https://www.usc.edu/)
-- 💻 Passionate about **Web Development, Full-Stack Engineering, and Solving Classic Algorithm Problems**
-- 🌱 Currently enhancing skills in **Next.js, Python, and C++**
+- 💻 Passionate about **Web Development, Full-Stack Engineering, and Solving Classic Algorithm Problems (like CodeForces)**
+- 🌱 Currently growing from a Front-end Enginner to a **Full-Stack Engineer**, mastering **SQL, NoSQL, CI/CD, Microservices, etc.**
 - 🎯 Future Goals: **Contribute cool ideas as Open Source projects**
 - 🔍 Actively seeking **Software Engineer / Front-end Developer / Full-Stack Developer** positions
 - 📫 Reach me at **[felix2001.wang@gmail.com](mailto:felix2001.wang@gmail.com)**
