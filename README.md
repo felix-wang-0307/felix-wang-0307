@@ -11,7 +11,7 @@
 ### 🚀 About Me
 - 🎓 Pursuing my **Master’s in Computer Science** at [University of Southern California](https://www.usc.edu/)
 - 💻 Passionate about **Web Development, Full-Stack Engineering, and Solving Classic Algorithm Problems (like CodeForces)**
-- 🌱 Currently growing from a Front-end Enginner to a **Full-Stack Engineer**, mastering **SQL, NoSQL, CI/CD, Microservices, etc.**
+- 🌱 Currently growing from a Front-end Enginner to a **Full-Stack Engineer**, mastering **Next.js, Cloud CI/CD, Microservices, etc.**
 - 🎯 Future Goals: **Contribute cool ideas as Open Source projects**
 - 🔍 Actively seeking **Software Engineer / Front-end Developer / Full-Stack Developer** positions
 - 📫 Reach me at **[felix2001.wang@gmail.com](mailto:felix2001.wang@gmail.com)**
@@ -29,7 +29,9 @@
   <a href="https://www.instagram.com/felix0307wang/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
-  
+
+  <p>WeChat💬: UnparalleledGift</p>
+  <p>QQ🐧: 358838616</p>
 </p>
 
 ---
